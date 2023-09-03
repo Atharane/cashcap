@@ -1,6 +1,7 @@
 /** @type {import('tailwindcss').Config} */
 
 export default {
+  // darkMode: "class", // MAKESHIFT: sets the default mode to light 🧐
   content: [
     "./index.html",
     "./src/**/*.{js,ts,jsx,tsx}",
